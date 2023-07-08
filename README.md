@@ -3,7 +3,7 @@
 
 - 🔭 Hoje Estou trabalhando com PHP, React e Node com Typescript
 - 🌱 Estou estudando React com Next e React Native
-- 💬 Contate-me no e-email: leandro.c.santana@hotmail.com
+- 💬 Contate-me no e-email: leandro.c.santana@hotmail.com ou whatsapp: <a href="https://wa.me/5511977968397">(11)97796-8397</a>
 - 😄 Pronouns: ele/dele
 
 <div align="center">
